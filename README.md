@@ -1,3 +1,6 @@
 # Rock Paper Scissors
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+A Rock-paper-scissors bot, trained using tensorflow's reinforcement learning libraries.
+
+Based on the rock-paper-scissors project from freecodecamp.org
+https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
